@@ -1,0 +1,14 @@
+body{
+    text-align: center;
+    background-image: repeating-radial-gradient(rgb(223, 78, 11), rgb(134, 224, 49));
+}
+
+#keanuImg{
+    position: relative;
+}
+
+.header{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: x-large;
+    font-weight: bold;
+}
